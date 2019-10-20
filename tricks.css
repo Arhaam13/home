@@ -1,0 +1,40 @@
+	
+#myHeader 
+{
+	background-color: lightblue;
+	color: black;
+	padding: 40px;
+	text-align: center;
+	font-size: 60px;
+}
+
+p.contact
+{
+	color: green;
+}
+
+p.wagwan
+{
+	color: blue;
+}
+
+p.there
+{
+	color: blue;
+}
+
+h3.mag
+{
+	color: magenta;
+	text-align: center;
+}
+
+iframe.ya
+{
+	padding: 10px;
+}
+
+h5.here
+{
+	color: red;
+}

@@ -1,0 +1,19 @@
+
+#myHeader 
+{
+	background-color: lightblue;
+	color: black;
+	padding: 40px;
+	text-align: center;
+	font-size: 60px;
+}
+
+.boxed 
+{
+  border: 3px solid magenta;
+}
+
+p.heylo
+{
+	color: green;
+}
