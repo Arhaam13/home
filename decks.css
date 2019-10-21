@@ -7,15 +7,13 @@
 	text-align: center;
 	font-size: 60px;
 }
-.column 
-{
+.column {
   float: left;
   width: 33.33%;
 }
 
 /* Clear floats after the columns */
-.row:after 
-{
+.row:after {
   content: "hello";
   display: table;
   clear: both;
