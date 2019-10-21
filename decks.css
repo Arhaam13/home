@@ -16,7 +16,7 @@
 /* Clear floats after the columns */
 .row:after 
 {
-  content: "";
+  content: "hello";
   display: table;
   clear: both;
 }
