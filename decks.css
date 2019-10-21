@@ -7,14 +7,8 @@
 	text-align: center;
 	font-size: 60px;
 }
-.column {
-  float: left;
-  width: 33.33%;
-}
 
-/* Clear floats after the columns */
-.row:after {
-  content: "hello";
-  display: table;
-  clear: both;
+h3.id
+{
+	text-align: center;
 }
